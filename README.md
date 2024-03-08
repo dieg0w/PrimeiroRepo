@@ -1,6 +1,8 @@
 # PrimeiroRepo
 Aula 08/03 aprendendo usar o github
 
+<h1 align="center"> 👾 Meu primeiro repositório 🤖 </h1>
+
 - Introdução 🐉
 
 Fomos introduzidos a como mexer no github e como criar um repositório
